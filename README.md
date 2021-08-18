@@ -1,6 +1,6 @@
 # Hi there <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/db8f1cbd38ac0ae2a08f36f961096dbd59a02393/Assets/Hi.gif width="50">
 
-<!-- <img src=https://c.tenor.com/B577vg9-20wAAAAM/typing-chewing-gum.gif width = "200"> -->
+<img src=https://c.tenor.com/B577vg9-20wAAAAM/typing-chewing-gum.gif width = "200">
 
 📍  Currently living in Fortaleza - CE - Brasil <br>
 🧠 Learning HTML, CSS and JavaScript <br>
