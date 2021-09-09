@@ -4,7 +4,7 @@
 
 🇧🇷  Girl from Rio  <br>
 📍  Currently living in Fortaleza - CE - Brasil <br>
-🧠 Learning HTML, CSS e JavaScript <br>
+🧠 Learning HTML, CSS, JavaScript and Node.js <br>
 ⭐ Knowledge of JQuery e Bootstrap <br>
 👩‍💻 System Analysis and Development Student <br>
 🗣 I speak English and Portuguese fluently <br>
