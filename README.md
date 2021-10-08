@@ -10,7 +10,7 @@
 🗣 I speak English and Portuguese fluently <br>
 🏝️ For fun I like to make travel plans and stay with my family <br> 
 🌎 My life goal is to know as many countries as possible and live in some of them <br> 
-🚀 I'm all the way UP! <br>
+
 
 
 
